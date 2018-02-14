@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mujahid.whatsoutside.View.MainActivity">
+    <item
+    android:id="@+id/action_settings"
+    android:orderInCategory="100"
+    android:title="Set Location"
+    app:showAsAction="never" />
+    <item
+        android:id="@+id/multi"
+        android:orderInCategory="100"
+        android:title="Multidays"
+        app:showAsAction="never" />
+</menu>
